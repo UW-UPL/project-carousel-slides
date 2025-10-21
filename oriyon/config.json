@@ -1,0 +1,10 @@
+{
+  "title": "Oriyon",
+  "descriptionFile": "description.md",
+  "layout": "layout2",
+  "images": ["oriyon1.png", "oriyon2.png"],
+  "metadata": {
+    "author": "Aidan Mahoney & Nicholas Yeung",
+    "date": "2025"
+  }
+}
